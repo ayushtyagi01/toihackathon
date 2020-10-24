@@ -1,1 +1,1 @@
-# toihackathon
+# TOIhackathon
